@@ -11,5 +11,6 @@ public class NumWords {
 		num= num/10;
 		hundreds= num%10;
 		System.out.println( hundreds + " hundreds, " + tens + " tens, and " + ones + " ones.");
+		
 	}
 }
