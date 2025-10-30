@@ -10,7 +10,7 @@ public class Bill3 {
 		int allbill = Integer.parseInt(args[3]);
 		double eachbill = allbill;
 		eachbill = Math.ceil(eachbill/3);
-		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": pay "  + eachbill + " shekels each." );
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": pay "  + eachbill + " shekels each" );
 
 	    // Replace this comment with the rest of your code   
 	}
