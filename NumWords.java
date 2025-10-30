@@ -10,7 +10,7 @@ public class NumWords {
 		tens= num%10;
 		num= num/10;
 		hundreds= num%10;
-		System.out.println( hundreds + " hundreds, " + tens + " tens, and " + ones + " ones.");
-		
+		System.out.print( hundreds + " hundreds, " + tens + " tens, and " + ones + " ones.");
+
 	}
 }
